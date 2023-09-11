@@ -1,4 +1,4 @@
-# 🏴‍☠🖱💻👾Welcome to Milosilo's Github!👾💻🖱🏴‍☠
+# 🏴‍☠🖱💻👾Welcome to milosilo's Github!👾💻🖱🏴‍☠
 ![milosilo](https://i.redd.it/w2ts47m5xjnb1.jpg)
 ### I am a cybersecurity researcher that focuses on red teaming and Artificial Intelligence. I also write immersive retro RPG Hacking Games that teach real cybersecurity skills as a hobby and release them for free.
 
