@@ -6,11 +6,9 @@
 - Updating Try Harder Code to allow for a a variety of commands for each host
 - Completing Bugz Hunter retro RPG
 - Completing AI training Lab testing
-- Red team TTP research
+- Red Team TTP research
 - Generative AI prompt engineering and manipulation
-- Configuring Hosted AI training lab for red team AI model TTPs
-- Various tools
-- Conference submissions
+
 
 
 ###  🌱 I’m currently learning:
