@@ -1,6 +1,6 @@
 # 🏴‍☠🖱💻👾Welcome to Milosilo's Github!👾💻🖱🏴‍☠
 ![milosilo](https://i.redd.it/w2ts47m5xjnb1.jpg)
-### I am a cybersecurity researcher that focuses on red teaming and Artificial Intelligence. I also write immersive retro RPG Hacking Games that teach real cybersecurity skills as a hobby and you can play them for free.
+### I am a cybersecurity researcher that focuses on red teaming and Artificial Intelligence. I also write immersive retro RPG Hacking Games that teach real cybersecurity skills as a hobby and release them for free.
 
 ### 🔭 I’m currently working on:
 - Updating Try Harder Code to allow for a a variety of commands for each host
